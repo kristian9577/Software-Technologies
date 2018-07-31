@@ -1,0 +1,30 @@
+<div class="container body-content">
+    <div class="row">
+        <div style="text-align: left; color: black ; font-style: italic; "><h2><p>User Details:</p></h2></div>
+        <div><span style="color: black">Name :</span> {{user.fullName}}</div>
+        <div><span style="color: black">Email :</span> {{user.email}}</div><br/><br/>
+        <div><h2><span style="text-align: left; color: black ; font-style: italic;">Articles from </span> {{user.email}} :</h2></div>
+        {{#each articles}}
+            <div class="col-md-6">
+                <article>
+                    <header>
+                        <h2>{{this.title}}</h2>
+                    </header>
+
+                    <p style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">{{this.content}}
+                    </p>
+
+                    <small class="author">Author:
+                        {{this.User.fullName}}
+                    </small>
+
+                    <footer>
+                        <div class="pull-right">
+                            <a class="btn btn-default btn-xs" href="/article/details/{{this.id}}">Read more &raquo;</a>
+                        </div>
+                    </footer>
+                </article>
+            </div>
+        {{/each}}
+    </div>
+</div>
