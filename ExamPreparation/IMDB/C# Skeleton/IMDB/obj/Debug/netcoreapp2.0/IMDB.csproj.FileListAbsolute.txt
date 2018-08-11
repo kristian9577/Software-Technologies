@@ -1,0 +1,11 @@
+C:\PROJECTS\IMDB\C# Skeleton\IMDB\bin\Debug\netcoreapp2.0\IMDB.deps.json
+C:\PROJECTS\IMDB\C# Skeleton\IMDB\bin\Debug\netcoreapp2.0\IMDB.runtimeconfig.json
+C:\PROJECTS\IMDB\C# Skeleton\IMDB\bin\Debug\netcoreapp2.0\IMDB.runtimeconfig.dev.json
+C:\PROJECTS\IMDB\C# Skeleton\IMDB\bin\Debug\netcoreapp2.0\IMDB.dll
+C:\PROJECTS\IMDB\C# Skeleton\IMDB\bin\Debug\netcoreapp2.0\IMDB.pdb
+C:\PROJECTS\IMDB\C# Skeleton\IMDB\obj\Debug\netcoreapp2.0\IMDB.csprojAssemblyReference.cache
+C:\PROJECTS\IMDB\C# Skeleton\IMDB\obj\Debug\netcoreapp2.0\IMDB.csproj.CoreCompileInputs.cache
+C:\PROJECTS\IMDB\C# Skeleton\IMDB\obj\Debug\netcoreapp2.0\IMDB.AssemblyInfoInputs.cache
+C:\PROJECTS\IMDB\C# Skeleton\IMDB\obj\Debug\netcoreapp2.0\IMDB.AssemblyInfo.cs
+C:\PROJECTS\IMDB\C# Skeleton\IMDB\obj\Debug\netcoreapp2.0\IMDB.dll
+C:\PROJECTS\IMDB\C# Skeleton\IMDB\obj\Debug\netcoreapp2.0\IMDB.pdb
